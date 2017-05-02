@@ -41,6 +41,7 @@ Pyton :https://docs.python.org/3/index.html
 
 	
 	pandas : http://pandas.pydata.org/pandas-docs/stable/10min.html
+	[Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 	yaml vs json
 
 	scrapy : https://github.com/scrapy/scrapy
