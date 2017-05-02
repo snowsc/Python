@@ -20,8 +20,9 @@ Process
 	What is Scum (iterative development) : https://en.wikipedia.org/wiki/Scrum_(software_development)
 	What is Test Drivin Development (TDD)
 	
-Github 
+Git[hub] 
 	
+	git : https://git-scm.com/docs
 	Create Markdown List - Make this a markdown file!!!!!!	
 	What is github (Create Account)
 	
