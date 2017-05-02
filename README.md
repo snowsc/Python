@@ -1,8 +1,8 @@
-Time Manageent
+## Time Manageent
 
 	Pomodoro Technique: https://en.wikipedia.org/wiki/Pomodoro_Technique
 
-Tools
+## Tools
 	Anaconda : https://www.continuum.io/downloads
 	VS Code : https://code.visualstudio.com/
 		Extensions : 
@@ -13,17 +13,18 @@ Tools
 	What is linting (pylint)?
 	Get GitHub iPhone App
 
-Process
+## Process
 
 	What is Lean : https://leankit.com/learn/kanban/kanban-board/
 	What is Kanban
 	What is Scum (iterative development) : https://en.wikipedia.org/wiki/Scrum_(software_development)
 	What is Test Drivin Development (TDD)
 	
-Git[hub] 
+## Git[hub] 
 	
 	git : https://git-scm.com/docs
 	Create Markdown List - Make this a markdown file!!!!!!	
+	[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 	What is github (Create Account)
 	
 NeoPixel
