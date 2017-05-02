@@ -8,7 +8,7 @@
 		Extensions : 
 			- Python : https://marketplace.visualstudio.com/items?itemName=donjayamanne.python
 
-	Jupyter
+Jupyter
 	
 	What is linting (pylint)?
 	Install GitHub iPhone App
@@ -38,17 +38,25 @@ Pyton :https://docs.python.org/3/index.html
 
 	The Python Standard Library : https://docs.python.org/3/library/index.html
 	The Python Language Reference : https://docs.python.org/3/reference/index.html
+	[ANACONDA PACKAGE LIST](https://docs.continuum.io/anaconda/pkg-docs)
 
-	
-	pandas : http://pandas.pydata.org/pandas-docs/stable/10min.html
+	[scikit-learn](http://scikit-learn.org)
+	[NumPy](http://www.numpy.org)
+	[Matplotlib](http://matplotlib.org)
+
+	https://stackexchange.com/	
+
+	[pandas](http://pandas.pydata.org/)
+	[10-minute tour of pandas](https://vimeo.com/59324550)
 	[Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 	yaml vs json
+	
+	[7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 
 	scrapy : https://github.com/scrapy/scrapy
 	spotipy : https://github.com/plamere/spotipy
 
 	Maybe
-	matplotlib
 	https://github.com/tensorflow/tensorflow
 	https://github.com/python/cpython
 	https://github.com/DonJayamanne/pythonVSCode/wiki
@@ -60,9 +68,10 @@ Web APIs
 
 	https://github.com/OAI/OpenAPI-Specification
 
-Pyton - Jupyter
+Pyton - [Jupyter](http://jupyter.readthedocs.io/en/latest)
 
 	nbviewer : https://nbviewer.jupyter.org/
+		
 
 	Kaggle (Create Kaggle Account)
 		IMDB 5000 Movie Dataset : https://www.kaggle.com/arthurtok/d/deepmatrix/imdb-5000-movie-dataset/principal-component-analysis-with-kmeans-visuals
