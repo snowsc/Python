@@ -87,5 +87,3 @@ Web Security
 Article
 
 	https://techcrunch.com/2017/04/28/someone-scraped-40000-tinder-selfies-to-make-a-facial-dataset-for-ai-experiments/
-
-Possible Projects
