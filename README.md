@@ -64,6 +64,9 @@ Pyton :https://docs.python.org/3/index.html
 	ML
 	http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 
+	[Seaborn](https://seaborn.pydata.org/)
+	[Plotly](https://plot.ly/python/)
+
 Web APIs
 
 	https://github.com/OAI/OpenAPI-Specification
